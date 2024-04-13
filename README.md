@@ -9,9 +9,9 @@
 
 | Topic | Field | Paper | Code |
 | --- | --- | --- | --- |
-| Underwater Image | Computer Vision | [paper](https://arxiv.org/abs/1905.13342) | [Under-water Image algo](https://github.com/gabrielsinger2/MVA_Numerical_Imaging) |
+| Underwater Image | Computer Vision | [paper](https://arxiv.org/abs/1905.13342) | [Under-Water Image Algorithm](https://github.com/gabrielsinger2/MVA_Numerical_Imaging) |
 | Statistical Learning with extreme value theory | Statistical Learning | [paper](https://arxiv.org/abs/2308.01023) | [EVT-METEO-DATA](https://github.com/gabrielsinger2/MVA-Sequential-Learning-extremes) |
 | Advanced Deep-learning Grad-CAM | Computer Vision and Explicability  | [paper](https://arxiv.org/pdf/1610.02391.pdf) | [GradCam-TP](https://github.com/gabrielsinger2/GRAD_CAM) |
 | Advanced Deep-learning for ODE | Applied Mathematics | [paper](https://arxiv.org/abs/2102.12086) | [KoopMan-TP](https://github.com/gabrielsinger2/Dynamical_System_Machine_Learning) |
-| Teaching| Bachelor Mathematics |  | [mathematics exercises](https://github.com/gabrielsinger2/MathematicsExercices/tree/main)|
+| Teaching| Bachelor Mathematics |  | [Mathematics exercises](https://github.com/gabrielsinger2/MathematicsExercices/tree/main)|
 | Biostatistics: Predicting the first time admission at emergency| Machine learning for medecine  | [paper](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002695) | [Report](https://github.com/gabrielsinger2/MathematicsExercices/tree/main)|
