@@ -10,7 +10,7 @@
 
 | Topic | Field | Paper | Code |
 | --- | --- | --- | --- |
-| Milliman Internship | Quantitative Researcher| | [Brief decription](https://github.com/gabrielsinger2/Milliman-Internship/tree/main) |
+| Milliman Internship | Quantitative Researcher| | [Brief description](https://github.com/gabrielsinger2/Milliman-Internship/tree/main) |
 | Underwater Image | Computer Vision | [paper](https://arxiv.org/abs/1905.13342) | [Under-Water Image Algorithm](https://github.com/gabrielsinger2/MVA_Numerical_Imaging) |
 | Statistical Learning with extreme value theory | Statistical Learning | [paper](https://arxiv.org/abs/2308.01023) | [EVT-METEO-DATA](https://github.com/gabrielsinger2/MVA-Sequential-Learning-extremes) |
 | Spectral Clustering | Graph theory and Machine Learning|  | [Spectral-Clustering](https://github.com/gabrielsinger2/Spectral-Clustering) |
