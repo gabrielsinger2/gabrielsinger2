@@ -1,5 +1,5 @@
 ### Hey, I’m Gabriel
-- 🔵 I was (machine learning) quantitative researcher intern at Milliman Paris for 6 months. I essentially developped closed formula to plug-in into ML models to create alpha from climate data on market stocks and improved significatively PnL.
+- 🔵 I was (April 24 to October 24) a quantitative researcher intern at Milliman Paris. I essentially developped closed formula to plug-in into ML models to create alpha from climate data on (specific) market stocks and improved significatively the corresponding PnL.
 - 🌱 I'm graduated from ENS Paris Saclay in the MVA master's program (2024) and an engineer graduated from ESTP (2022) as well as an M1 in mathematics from Sorbonne University.
 - ♦️ Recipient of the Google DeepMind Excellence Scolarschip (2023-2024).
 - 👀 I’m interested in machine learning and applied mathematics. Particularly in the links between theory and practice, in particular putting theoretical machine learning algorithms into production for real-life cases.
