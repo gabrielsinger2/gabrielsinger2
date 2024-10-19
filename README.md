@@ -15,7 +15,7 @@
 | Statistical Learning with extreme value theory | Statistical Learning | [paper](https://arxiv.org/abs/2308.01023) | [EVT-METEO-DATA](https://github.com/gabrielsinger2/MVA-Sequential-Learning-extremes) |
 | Spectral Clustering | Graph theory and Machine Learning|  | [Spectral-Clustering](https://github.com/gabrielsinger2/Spectral-Clustering) |
 | Advanced Deep-learning Grad-CAM | Computer Vision and Explicability  | [paper](https://arxiv.org/pdf/1610.02391.pdf) | [GradCam-TP](https://github.com/gabrielsinger2/GRAD_CAM) |
-| Advanced Deep-learning for ODE | Applied Mathematics and Deep Learning| [paper](https://arxiv.org/abs/2102.12086) | [KoopMan-TP](https://github.com/gabrielsinger2/Dynamical_System_Machine_Learning) |
+| Advanced Deep-learning for dynamic systems | Applied Mathematics and Deep Learning| [paper](https://arxiv.org/abs/2102.12086) | [KoopMan-TP](https://github.com/gabrielsinger2/Dynamical_System_Machine_Learning) |
 | Teaching| Bachelor Mathematics |  | [Mathematics exercises](https://github.com/gabrielsinger2/MathematicsExercices/tree/main)|
 | Biostatistics: Predicting the first time admission at emergency| Machine learning for medecine  | [paper](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002695) | [Report](https://github.com/gabrielsinger2/Biostatistics-Machine-learning-for-emergency-prediction)|
 |Functional Analysis: Isoperimetric Inequality| Applied Mathematics (There is a little animation here (https://github.com/gabrielsinger2/Python_Isoperimetric/blob/main/gradient_descent(1).gif) :) |  | [Polygones-Algo](https://github.com/gabrielsinger2/Python_Isoperimetric)|
