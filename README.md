@@ -30,4 +30,4 @@ qui n’a pas peur encore de se tromper, d’avoir l’air idiot, de ne pas fair
 comme tout le monde. Il n’a pas peur non plus que les choses qu’il regarde aient le mauvais
 goût d’être différentes de ce qu’il attend d’elles, de ce qu’elles devraient être, ou plutôt : de
 ce qu’il est bien entendu qu’elles sont. Il ignore les consensus muets et sans failles qui font
-partie de l’air que nous respirons — celui de tous les gens sensés et bien connus comme tels."
+partie de l’air que nous respirons — celui de tous les gens sensés et bien connus comme tels." Alexandre Grothendick, Récoltes et Semailles.
