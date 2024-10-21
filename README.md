@@ -20,3 +20,14 @@
 | Biostatistics: Predicting the first time admission at emergency| Machine learning for medecine  | [paper](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002695) | [Report](https://github.com/gabrielsinger2/Biostatistics-Machine-learning-for-emergency-prediction)|
 |Functional Analysis: Isoperimetric Inequality| Applied Mathematics (There is a little animation here (https://github.com/gabrielsinger2/Python_Isoperimetric/blob/main/gradient_descent(1).gif) :) |  | [Polygones-Algo](https://github.com/gabrielsinger2/Python_Isoperimetric)|
 |Repulsive Ensemble| Bayesian Machine Learning |[paper](https://arxiv.org/abs/2106.11642)  | [Project](https://github.com/gabrielsinger2/Repulsive-ensemble-ML)|
+
+
+
+I'm sharing a lovely quote from one of my favorite mathematicians, Alexandre Grothendieck. He wrote "Récoltes et Semailles" ("Harvest and Sowing" in english), a philosophical work in which he describes in particular his relationship to mathematics and research in general, and especially to the notion of discovery. Intrerested readers can find the book on free access at [Récoltes et Semailles](https://agrothendieck.github.io/divers/ReS.pdf). 
+
+"La découverte est le privilège de l’enfant. C’est du petit enfant que je veux parler, l’enfant
+qui n’a pas peur encore de se tromper, d’avoir l’air idiot, de ne pas faire sérieux, de ne pas faire
+comme tout le monde. Il n’a pas peur non plus que les choses qu’il regarde aient le mauvais
+goût d’être différentes de ce qu’il attend d’elles, de ce qu’elles devraient être, ou plutôt : de
+ce qu’il est bien entendu qu’elles sont. Il ignore les consensus muets et sans failles qui font
+partie de l’air que nous respirons — celui de tous les gens sensés et bien connus comme tels."
