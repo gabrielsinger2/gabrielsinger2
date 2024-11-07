@@ -12,7 +12,7 @@
 | Topic | Field | Paper | Code |
 | --- | --- | --- | --- |
 | Milliman Internship | Quantitative Researcher| [Brief description](https://github.com/gabrielsinger2/Milliman-Internship/tree/main) | NA |
-| Perso Projects | Deep Learning, Times Series; Challenge ENS/ELMY and Price prediction| [ProphetTS](https://arxiv.org/abs/2303.01903)| (https://github.com/gabrielsinger2/Perso_Experiments) |
+| Perso Projects | Deep Learning, Times Series; Challenge ENS/ELMY and Price prediction| [ProphetTS](https://arxiv.org/abs/2303.01903)| [Codes](https://github.com/gabrielsinger2/Perso_Experiments) |
 | 3D Shape | Geometrical data anlysis/Topological Data Analysis | [paper](https://arxiv.org/abs/2103.04856) | [Final report](https://github.com/gabrielsinger2/3D_BioShape) |
 | Statistical Learning with extreme value theory | Statistical Learning | [paper](https://arxiv.org/abs/2308.01023) | [EVT-METEO-DATA](https://github.com/gabrielsinger2/MVA-Sequential-Learning-extremes) |
 | Spectral Clustering | Graph theory and Machine Learning|  | [Spectral-Clustering](https://github.com/gabrielsinger2/Spectral-Clustering) |
