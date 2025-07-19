@@ -1,5 +1,5 @@
 ### Hey, I’m Gabriel
-- 🔵🔵 I am (from December 24 to Septembre 25) a machine learning researcher at Huawei Paris in the times series teams, working on developping new architectures based on Transformers, worked on model compression, distillation and foundation models.
+- 🔵🔵 I am a junior machine learning engineer at Huawei Paris in the times series teams, working on developping new architectures based on Transformers, worked on model compression, distillation and foundation models.
 - 🔵 I was (from April 24 to October 24) a machine learning researcher intern at Milliman Paris. I essentially developped closed formula to plug-in into a specific class of machine learning models to create alpha from climate data on market stocks and improved significatively the corresponding PnL.
 - 🌱 I'm graduated from ENS Paris Saclay in the MVA master's program (2024) and an engineer graduated from ESTP (2022) as well as an M1 in mathematics from Sorbonne University.
 - ♦️ Recipient of the Google DeepMind Excellence Scolarschip (2023-2024).
