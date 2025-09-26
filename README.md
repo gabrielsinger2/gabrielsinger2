@@ -14,16 +14,9 @@
 | --- | --- | --- | --- |
 | Milliman Internship | ML Researcher| [Brief description](https://github.com/gabrielsinger2/Milliman-Internship/tree/main) | NA |
 | Perso Projects | Deep Learning, Times Series; Challenge ENS/ELMY and Price prediction| [ProphetTS](https://arxiv.org/abs/2303.01903)| [Codes](https://github.com/gabrielsinger2/Perso_Experiments) |
-| 3D Shape | Geometrical data anlysis/Topological Data Analysis | [paper](https://arxiv.org/abs/2103.04856) | [Final report](https://github.com/gabrielsinger2/3D_BioShape) |
 | Statistical Learning with extreme value theory | Statistical Learning | [paper](https://arxiv.org/abs/2308.01023) | [EVT-METEO-DATA](https://github.com/gabrielsinger2/MVA-Sequential-Learning-extremes) |
-| Spectral Clustering | Graph theory and Machine Learning|  | [Spectral-Clustering](https://github.com/gabrielsinger2/Spectral-Clustering) |
-| Advanced Deep-learning Grad-CAM | Computer Vision and Explicability  | [paper](https://arxiv.org/pdf/1610.02391.pdf) | [GradCam-TP](https://github.com/gabrielsinger2/GRAD_CAM) |
-| Advanced Deep-learning for dynamic systems | Applied Mathematics and Deep Learning| [paper](https://arxiv.org/abs/2102.12086) | [KoopMan-TP](https://github.com/gabrielsinger2/Dynamical_System_Machine_Learning) |
 | Teaching| Bachelor Mathematics |  | [Mathematics exercises](https://github.com/gabrielsinger2/MathematicsExercices/tree/main)|
 | Biostatistics: Predicting the first time admission at emergency| Machine learning for medecine  | [paper](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002695) | [Report](https://github.com/gabrielsinger2/Biostatistics-Machine-learning-for-emergency-prediction)|
-|Functional Analysis: Isoperimetric Inequality| Applied Mathematics (There is a little animation here (https://github.com/gabrielsinger2/Python_Isoperimetric/blob/main/gradient_descent(1).gif) :) |  | [Polygones-Algo](https://github.com/gabrielsinger2/Python_Isoperimetric)|
-|Repulsive Ensemble| Bayesian Machine Learning |[paper](https://arxiv.org/abs/2106.11642)  | [Project](https://github.com/gabrielsinger2/Repulsive-ensemble-ML)|
-
 
 
 I'm sharing a lovely quote from one of my favorite mathematicians, Alexandre Grothendieck. He wrote "Récoltes et Semailles" ("Harvest and Sowing" in english), a philosophical work in which he describes in particular his relationship to mathematics and research in general, and especially to the notion of discovery. Intrerested readers can find the book on free access at [Récoltes et Semailles](https://agrothendieck.github.io/divers/ReS.pdf). 
