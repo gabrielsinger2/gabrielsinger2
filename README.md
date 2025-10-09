@@ -4,7 +4,7 @@
 - 🌱 I'm graduated from ENS Paris Saclay in the MVA master's program (2024) and an engineer graduated from ESTP (2022) as well as an M1 in mathematics from Sorbonne University.
 - ♦️ Recipient of the Google DeepMind Excellence Scolarschip (2023-2024).
 - 👀 I’m interested in machine learning, in particular putting theoretical machine learning algorithms into production for real-life cases.
-- 🎒 I am also very involved in teaching mathematics and computer science (from high school to Master's level). I'm oral examinator (in french kholleur) in mathematics for the preparatory class (PC*) at Fenelon St Marie.
+- 🎒 I am also very involved in teaching mathematics and computer science (from high school to Master's level).
 - :triangular_ruler: I'm a volunteer contributor to the mathematical exercises on the [BIBMATH](https://www.bibmath.net/ressources/index.php?action=affiche&quoi=mathspe/index)
 - 📫 How to reach me: gabrielsinger2@gmail.com
   
