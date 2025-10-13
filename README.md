@@ -13,7 +13,7 @@
 |:--|:--|:--|:--|
 | **Reinforcement Learning & Optimization** | ML Researcher (Huawei) | [arXiv:2510.07624](https://doi.org/10.48550/arXiv.2510.07624) | [🔗 GitHub](https://github.com/abenechehab/nll_to_po) |
 | **Time Series Forecasting** | ML Researcher (Huawei) | _Coming soon_ | _Coming soon_ |
-| **Functional Analysis & Heat Equation** | Applied Mathematics | [arXiv:2312.01705](https://doi.org/10.48550/arXiv.2312.01705) | _No code — theoretical work_ 🧮 |
+| **Functional Analysis & Heat Equation** | Applied Mathematics | [arXiv:2312.01705](https://doi.org/10.48550/arXiv.2312.01705) | _No code: theoretical work_ |
 
 ## Industrial Experience
 
