@@ -15,9 +15,24 @@
 | **Time Series Forecasting** | ML Researcher (Huawei) | _Coming soon_ | _Coming soon_ |
 | **Functional Analysis & Heat Equation** | Applied Mathematics | [arXiv:2312.01705](https://doi.org/10.48550/arXiv.2312.01705) | _No code — theoretical work_ 🧮 |
 
+## Industrial Experience
 
-  
--  **Projects and Teaching**
+| 📅 Period | 🏢 Organization | 🧩 Role | 📘 Summary | 👀 Supervisors|
+|:--|:--|:--|:--|:--|
+| **2024-2025** | **Huawei Paris Research Center** | Machine Learning Engineer / Researcher | Worked on **foundation models for time series** and **image classification**. Improved Transformer architectures, designed **distillation strategies** to reduce inference FLOPs, and collaborated with the **Reinforcement Learning** team. | Thomas Albert |
+| **Apr 2024 – Oct 2024** | **Milliman Paris** | Quantitative ML Intern | Developed a **machine-learning-based investment strategy** using **climate data**. Built a **closed-form alpha generator**, designed a **custom backtesting pipeline**, and achieved **state-of-the-art performance** in both historical and Monte Carlo tests. | Boumezoued Alexandre (head of the Research team) and Sophian Mehalla (Research engineer)|
+
+## 🎓 Teaching Experience
+
+| 📅 Period | 🏫 Institution | 🧑‍🏫 Role | 📘 Description |
+|:--|:--|:--|:--|
+| **2022 – Sep 2025** | **French Ministry of Education** | Oral Examiner in Mathematics | Conducted *khôlles* for “Prépa HEC” and "PC étoile" (Lycée Carnot & Fénelon Ste-Marie) |
+| **2020 – 2025** | **ESTP Paris** | Teaching Assistant | Led tutorials in linear algebra, analysis, and applied computing for engineering students. |
+| **2022 – 2023** | **EFREI Paris** | Teaching Assistant | Supported courses in probability, statistics, and Python-based data analysis. |
+| **2022 – 2023** | **IPESUP Paris** | Mathematics Instructor | Prepared students for selective entrance exams in mathematics and quantitative reasoning. |
+
+
+## Projects
 
 | Context | Field | Based on the work of: | Personal Work/Code |
 | --- | --- | --- | --- |
