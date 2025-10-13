@@ -20,7 +20,7 @@
   
 -  **Projects and Teaching**
 
-| Topic | Field | Paper | Code |
+| Context | Field | Based on the work of: | Personal Work/Code |
 | --- | --- | --- | --- |
 | Milliman Internship | ML Researcher| [Brief description](https://github.com/gabrielsinger2/Milliman-Internship/tree/main) | NA |
 | Perso Projects | Deep Learning, Times Series; Challenge ENS/ELMY and Price prediction| [ProphetTS](https://arxiv.org/abs/2303.01903)| [Codes](https://github.com/gabrielsinger2/Perso_Experiments) |
