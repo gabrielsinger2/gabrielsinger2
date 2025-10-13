@@ -6,8 +6,19 @@
 - 👀 I’m interested in machine learning, in particular putting theoretical machine learning algorithms into production for real-life cases.
 - 🎒 I am also very involved in teaching mathematics and computer science (from high school to Master's level) and volunteer contributor to the mathematical exercises on the [BIBMATH](https://www.bibmath.net/ressources/index.php?action=affiche&quoi=mathspe/index)
 - 📫 How to reach me: gabrielsinger2@gmail.com
+
+- **Publications**
+
+| Topic | Field | Paper | Code |
+| --- | --- | --- | --- |
+|Reinforcment learning and Optimization | ML Researcher (work done at Huawei)| [Paper link](https://doi.org/10.48550/arXiv.2510.07624) | [Github Repo](https://github.com/abenechehab/nll_to_po)|
+|Times Series Forecasting | ML Researcher (work done at Huawei)| Soon | Soon|
+|Functional analysis and heat equation| Applied Mamthematics| [Paper link](https://doi.org/10.48550/arXiv.2312.01705)| No Code it's theoritical work :) |
+
+
+
   
--  **Repositories**
+-  **Projects and Teaching**
 
 | Topic | Field | Paper | Code |
 | --- | --- | --- | --- |
