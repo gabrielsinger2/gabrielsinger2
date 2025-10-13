@@ -9,7 +9,7 @@
 
 ## Publications
 
-| 🏷️ Topic | 🧩 Field / Role | 📄 Paper | 💻 Code |
+| Topic | Field / Role | 📄 Paper | 💻 Code |
 |:--|:--|:--|:--|
 | **Reinforcement Learning & Optimization** | ML Researcher (Huawei) | [arXiv:2510.07624](https://doi.org/10.48550/arXiv.2510.07624) | [🔗 GitHub](https://github.com/abenechehab/nll_to_po) |
 | **Time Series Forecasting** | ML Researcher (Huawei) | _Coming soon_ | _Coming soon_ |
@@ -17,14 +17,14 @@
 
 ## Industrial Experience
 
-| 📅 Period | 🏢 Organization | 🧩 Role | 📘 Summary | 👀 Supervisors|
+| Period | Organization | Role | Summary | 👀 Supervisors|
 |:--|:--|:--|:--|:--|
 | **2024-2025** | **Huawei Paris Research Center** | Machine Learning Engineer / Researcher | Worked on **foundation models for time series** and **image classification**. Improved Transformer architectures, designed **distillation strategies** to reduce inference FLOPs, and collaborated with the **Reinforcement Learning** team. | Thomas Albert |
 | **Apr 2024 – Oct 2024** | **Milliman Paris** | Quantitative ML Intern | Developed a **machine-learning-based investment strategy** using **climate data**. Built a **closed-form alpha generator**, designed a **custom backtesting pipeline**, and achieved **state-of-the-art performance** in both historical and Monte Carlo tests. | Boumezoued Alexandre (head of the Research team) and Sophian Mehalla (Research engineer)|
 
 ## 🎓 Teaching Experience
 
-| 📅 Period | 🏫 Institution | 🧑‍🏫 Role | 📘 Description |
+| 📅 Period | Institution | Role | Description |
 |:--|:--|:--|:--|
 | **2022 – 2025** | **French Ministry of Education** | Oral Examiner in Mathematics | Conducted *khôlles* for “Prépa HEC” and "PC étoile" (Lycée Carnot & Fénelon Ste-Marie) |
 | **2020 – 2025** | **ESTP Paris** | Teaching Assistant | Led tutorials in linear algebra, analysis, and applied computing for engineering students. |
