@@ -26,7 +26,7 @@
 
 | 📅 Period | 🏫 Institution | 🧑‍🏫 Role | 📘 Description |
 |:--|:--|:--|:--|
-| **2022 – Sep 2025** | **French Ministry of Education** | Oral Examiner in Mathematics | Conducted *khôlles* for “Prépa HEC” and "PC étoile" (Lycée Carnot & Fénelon Ste-Marie) |
+| **2022 – 2025** | **French Ministry of Education** | Oral Examiner in Mathematics | Conducted *khôlles* for “Prépa HEC” and "PC étoile" (Lycée Carnot & Fénelon Ste-Marie) |
 | **2020 – 2025** | **ESTP Paris** | Teaching Assistant | Led tutorials in linear algebra, analysis, and applied computing for engineering students. |
 | **2022 – 2023** | **EFREI Paris** | Teaching Assistant | Supported courses in probability, statistics, and Python-based data analysis. |
 | **2022 – 2023** | **IPESUP Paris** | Mathematics Instructor | Prepared students for selective entrance exams in mathematics and quantitative reasoning. |
