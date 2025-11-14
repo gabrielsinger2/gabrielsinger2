@@ -12,7 +12,7 @@
 | Topic | Field / Role | 📄 Paper | 💻 Code |
 |:--|:--|:--|:--|
 | **Reinforcement Learning & Optimization** | ML Researcher (Huawei) | [arXiv:2510.07624](https://doi.org/10.48550/arXiv.2510.07624) | [🔗 GitHub](https://github.com/abenechehab/nll_to_po) |
-| **Time Series Forecasting** (Workshop NeurIPS 2025) | ML Researcher (Huawei) |[Link](https://openreview.net/forum?id=wfyc8vLcq0)| _Coming soon_ |
+| **Time Series Forecasting** (Workshop NeurIPS 2025) | ML Researcher (Huawei) |[Link](https://openreview.net/forum?id=wfyc8vLcq0)| [🔗 Github](https://github.com/gabrielsinger2/Linear-) |
 | **Functional Analysis & Heat Equation**| Applied Mathematics | [arXiv:2312.01705](https://doi.org/10.48550/arXiv.2312.01705) | _No code: theoretical work_ |
 
 ## Industrial Experience
