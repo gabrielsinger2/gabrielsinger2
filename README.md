@@ -19,7 +19,7 @@
 
 | Period | Organization | Role | Summary | 👀 Supervisors|
 |:--|:--|:--|:--|:--|
-| **2024-2025** | **Huawei Paris Research Center** | Machine Learning Engineer / Researcher | Worked on **foundation models for time series**. Improved Transformer architectures, designed **distillation strategies** to reduce inference FLOPs, and collaborated with the **Reinforcement Learning** team. | Thomas Albert |
+| **2024-2025** | **Huawei Paris Research Center** | Machine Learning Engineer / Researcher | Worked on foundation models for time series. Improved Transformer architectures, designed distillation strategies to reduce inference FLOPs, and collaborated with the Reinforcement Learning team. | Thomas Albert |
 | **Apr 2024 – Oct 2024** | **Milliman Paris** | Quantitative ML Intern | Developed a machine-learning-based investment strategy, that beats the market. | Boumezoued Alexandre (head of the Research team) and Sophian Mehalla (Research engineer)|
 
 ## 🎓 Teaching Experience
