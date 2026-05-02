@@ -1,5 +1,6 @@
 ### Hey, I’m Gabriel
-- 🔵🔵 I am a junior machine learning engineer at Huawei Paris in the times series teams, working on developping new architectures based on Transformers, worked on model compression, distillation and foundation models.
+- 🔵🔵🔵 I'm doing an industrial PhD at SNCF: first paper accepted at ICML !! 
+- 🔵🔵 I was a junior machine learning engineer at Huawei Paris in the times series teams, working on developping new architectures based on Transformers, worked on model compression, distillation and foundation models.
 - 🔵 I was (from April 24 to October 24) a machine learning researcher intern at Milliman Paris. I essentially developped closed formula to plug-in into a specific class of machine learning models to create alpha from climate data on market stocks and improved significatively the corresponding PnL.
 - 🌱 I'm graduated from ENS Paris Saclay in the MVA master's program (2024) and an engineer graduated from ESTP (2022) as well as an M1 in mathematics from Sorbonne University.
 - ♦️ Recipient of the Google DeepMind Excellence Scolarschip (2023-2024).
@@ -9,12 +10,12 @@
 
 ## Publications
 
-| Topic | Field / Role | 📄 Paper | 💻 Code |
-|:--|:--|:--|:--|
-| **Reinforcement Learning & Optimization** | ML Researcher (Huawei) | [arXiv:2510.07624](https://doi.org/10.48550/arXiv.2510.07624) | [🔗 GitHub](https://github.com/abenechehab/nll_to_po) |
-| **Time Series Forecasting** (Workshop NeurIPS 2025) | ML Researcher (Huawei) |[Link](https://openreview.net/forum?id=wfyc8vLcq0)| [🔗 Github](https://github.com/gabrielsinger2/Linear-) |
-| **Functional Analysis & Heat Equation**| Applied Mathematics | [arXiv:2312.01705](https://doi.org/10.48550/arXiv.2312.01705) | _No code: theoretical work_ |
-
+| Topic | Field / Role | Publication / Venue | 📄 Paper | 💻 Code |
+|:--|:--|:--|:--|:--|
+|**Fairness and Crowdsourcing**|PhD SNCF and ENS Saclay| ICML 2026 | | coming soon | |
+| **Reinforcement Learning & Optimization** | ML Researcher (Huawei) | arXiv preprint, 2025 — under review | [arXiv:2510.07624](https://doi.org/10.48550/arXiv.2510.07624) | [🔗 GitHub](https://github.com/abenechehab/nll_to_po) |
+| **Time Series Forecasting** | ML Researcher (Huawei) | NeurIPS 2025 Workshop — BERT2S | [OpenReview](https://openreview.net/forum?id=wfyc8vLcq0) | [🔗 GitHub](https://github.com/gabrielsinger2/Linear-) |
+| **Functional Analysis & Heat Equation** | (Participation as intern) Applied Mathematics | SIAM, 2023 | [arXiv:2312.01705](https://doi.org/10.48550/arXiv.2312.01705) | _No code: theoretical work_ |
 ## Industrial Experience
 
 | Period | Organization | Role | Summary | 👀 Supervisors|
