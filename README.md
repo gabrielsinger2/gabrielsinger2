@@ -12,7 +12,7 @@
 
 | Topic | Field / Role | Publication / Venue | 📄 Paper | 💻 Code |
 |:--|:--|:--|:--|:--|
-|**Fairness and Crowdsourcing**|PhD SNCF and ENS Saclay| ICML 2026 | | coming soon | |
+|**Fairness and Crowdsourcing**|PhD SNCF and ENS Saclay| ICML 2026 | | [Github code repo](https://github.com/gabrielsinger2/FairCrowd)| |
 | **Reinforcement Learning & Optimization** | ML Researcher (Huawei) | arXiv preprint, 2025 — under review | [arXiv:2510.07624](https://doi.org/10.48550/arXiv.2510.07624) | [🔗 GitHub](https://github.com/abenechehab/nll_to_po) |
 | **Time Series Forecasting** | ML Researcher (Huawei) | NeurIPS 2025 Workshop — BERT2S | [OpenReview](https://openreview.net/forum?id=wfyc8vLcq0) | [🔗 GitHub](https://github.com/gabrielsinger2/Linear-) |
 | **Functional Analysis & Heat Equation** | (Participation as intern) Applied Mathematics | SIAM, 2023 | [arXiv:2312.01705](https://doi.org/10.48550/arXiv.2312.01705) | _No code: theoretical work_ |
